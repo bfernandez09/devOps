@@ -6,6 +6,7 @@ export default function Home() {
      <div>
       <h1>Borro contenido inicial y agrego este cambio para visualizar en github como pide el lab.</h1>
       <h2>Agrego un segundo commit para test en caso de cualquier cosa.</h2>
+      <h3>Agrego un tercer commit desde segunda rama al estar en solitario.</h3>
      </div>
     </main>
   );
