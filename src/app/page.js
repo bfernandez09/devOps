@@ -4,9 +4,9 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
      <div>
-      <h1>Borro contenido inicial y agrego este cambio para visualizar en github como pide el lab.</h1>
-      <h2>Agrego un segundo commit para test en caso de cualquier cosa.</h2>
-      <h3>Agrego un tercer commit desde segunda rama al estar en solitario.</h3>
+      <h1>Laboratorio 3</h1>
+      <nav>Bienvenidos al laboratorio 3</nav> 
+      <p>En el siguiente laboratorio se presenta el uso e github en este repositorio</p>
      </div>
     </main>
   );
